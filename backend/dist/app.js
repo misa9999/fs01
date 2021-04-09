@@ -20,7 +20,6 @@ const whiteList = [
   'http://127.0.0.1:3000',
   'http://127.0.0.1:3001',
   'http://54.232.201.125',
-  'https://fs01.vercel.app'
 ];
 
 const corsOptions = {
